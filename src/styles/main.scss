@@ -1,0 +1,14 @@
+@import "utils";
+@import "fonts";
+@import "typography";
+
+@import "./checkbox";
+
+html {
+  font-family: Roboto Arial, Helvetica, sans-serif;
+}
+
+body {
+  text-align: center;
+  background: $c-gray;
+}
